@@ -15,7 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React SUKSES!
+
+          Learn React Success!
+          neumedira
+
         </a>
       </header>
     </div>
